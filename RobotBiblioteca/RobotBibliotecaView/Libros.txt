@@ -1,0 +1,5 @@
+1;Cien años de soledad;Novela;Usado;5;Una obra maestra de la literatura latinoamericana, escrita por Gabriel García Márquez, que narra la saga de la familia Buendía en el mítico pueblo de Macondo.;Realismo mágico, Colombia;Gabriel García Márquez;Disponible
+
+2;Breves respuestas a las grandes preguntas;Ciencia;Nuevo;1;Último libro de Stephen Hawking donde aborda los grandes interrogantes del universo y nuestra existencia con claridad y accesibilidad.;Física, Cosmología;Stephen Hawking;Prestado
+
+3;El señor de los anillos: La comunidad del anillo;Fantasía;Restaurado;3;Primera parte de la épica trilogía de J.R.R. Tolkien, que introduce al lector en un universo increíblemente rico y detallado con su propia mitología.;Aventura, Épica, Fantasía;J.R.R. Tolkien;Reservado
